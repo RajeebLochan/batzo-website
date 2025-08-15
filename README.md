@@ -29,19 +29,3 @@ This website showcases two of our flagship products with easy **Buy on Amazon** 
 
 ---
 
-## 📂 Project Structure
-batzo-website/
-│
-├── public/
-│ ├── logo.png # Company logo
-│ ├── fire-blanket.jpg # Fire Blanket image
-│ ├── glow-fort.jpg # Glow-in-the-Dark Fort image
-│
-├── src/
-│ ├── components/ # Reusable UI components (Header, Footer, ProductCard, etc.)
-│ ├── App.jsx # Main app layout and sections
-│ ├── index.js # React entry point
-│ ├── styles.css # Tailwind base styles
-│
-├── package.json
-└── README.md
